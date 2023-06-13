@@ -1,0 +1,10 @@
+* percent-encoding
+
+RFC 3986 percent-encoding library
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/llibra/percent-encoding.git   |
+| commit  | c1224e2  |
+| systems | percent-encoding |
+|---------+-------------------------------------------|
+
