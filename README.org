@@ -8,4 +8,4 @@ RFC 3986 percent-encoding library
 | systems | percent-encoding |
 |---------+-------------------------------------------|
 
- 
+  
